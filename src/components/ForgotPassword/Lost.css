@@ -1,0 +1,37 @@
+.forgot_card {
+    max-width: 768px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    padding: 30px 30px;
+    border-radius: 10px;
+}
+
+.forgot_form_head h1 {
+    font-weight: bold !important;
+}
+.forgot_form input{
+    background-color: #eee;
+    border: none;
+    padding: 12px 15px;
+    margin: 8px 0;
+    width: 100%;
+}
+
+.form-control:focus-visible {
+    color: #212529;
+    background-color: #eee;
+    border-color: #212529 !important;
+    outline: 0;
+    box-shadow: none;
+}
+
+.btn_lsot {
+    background-color: #9ae49f !important;
+    border-color: #9ae49f !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+    padding: 12px 26px !important;
+    letter-spacing: 1px !important;
+    border-radius: 20px !important;
+}
